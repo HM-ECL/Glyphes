@@ -98,9 +98,8 @@ Fig. 9 : la représentation de la qualité de vie à Los Angeles
 
 Les glyphes en étoile servent à représenter des données avec un nombre de variables moyen, mais elles deviennent inefficaces lorsqu'il y a trop de catégories.
 
-
-<img src="https://github.com/Hugues-Moreau/Glyphes/blob/master/crime_legend.png" align="middle"> 
 <img src="https://github.com/Hugues-Moreau/Glyphes/blob/master/crime_map.png" align="middle"> 
+<img src="https://github.com/Hugues-Moreau/Glyphes/blob/master/crime_legend.png" align="middle"> 
 Fig. 10 : Nature des crimes commis à Los Angeles
 [source](https://bib.dbvis.de/uploadedFiles/jaeckle_star_glyph_insets.pdf)
 

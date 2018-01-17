@@ -9,7 +9,7 @@ Les glyphes sont des symboles dont la forme, la taille, ou la couleur peuvent va
 <table border="0">
   <tr>
     <td>
-      <img src="https://github.com/Hugues-Moreau/Glyphes/plot_color.png" style="width: 100px;">
+      <img src="https://github.com/Hugues-Moreau/Glyphes/plot_color.jpg" style="width: 100px;">
     </td>
     <td>
       Fig. 1 : un  exemple de représentation où seule la couleur change (source : https://upload.wikimedia.org/wikipedia/commons/c/c4/Scatter_plot.jpg)
